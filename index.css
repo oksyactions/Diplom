@@ -1,0 +1,55 @@
+:root {
+  --spacing-small: 10px;
+  --spacing-medium: 15px;
+  --spacing-large: 30px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  line-height: 1.7;
+  background-color: #901212c4;
+}
+.connectDiv {
+  background-color: rgb(90, 149, 159);
+  width: 100%;
+  height: 479px;
+  display: flex;
+  justify-content: center;
+}
+
+.forma {
+  background-color: white;
+  border: 2px solid orange;
+  width: 470px;
+  height: 417px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.rowForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#info {
+  color: red;
+  text-align: center;
+}
+.footer {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 200px;
+  background-color: grey;
+}
+.telephone {
+  margin-left: 300px;
+}
