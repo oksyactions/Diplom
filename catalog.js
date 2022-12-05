@@ -64,6 +64,23 @@ const CATALOG = [
     img: 'https://mebelvia.ru/upload/resize_cache/iblock/49d/480_360_1/kamila_krovat_2020041603000_2.jpg',
     price: 50000,
 }
+,
+{
+    id: 'el10',
+    type: 'mattress',
+    name: 'Матрасс SLEEPER',
+    img: 'https://cdn.mebelvia.ru/upload/resize_cache/iblock/f83/1032_774_1/matras_florinda_1400h1900_2018300714019_2.jpg?1669411181236956',
+    price: 50000,
+}
+,
+{
+    id: 'el11',
+    type: 'mattress',
+    name: 'Матрасс BROM',
+    img: 'https://cdn.mebelvia.ru/upload/resize_cache/iblock/0b0/1032_774_1/matras_galaktika_sna_orfei_900h2000_0990600120072_2.jpg?1669378919195971',
+    price: 40000,
+}
+
 ];
 
 
